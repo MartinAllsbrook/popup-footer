@@ -2,6 +2,7 @@ h1 {
     color:rgb(56, 20, 26);
     font-family: 'EB Garamond';
     font-style: italic;
+    margin:0;
 }
 
 body {
@@ -12,6 +13,8 @@ body {
 main {
     position: sticky;
     top: -100px;    
+    background-color: whitesmoke;
+    margin: 0px 20px;
 }
 
 footer {
