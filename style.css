@@ -1,3 +1,9 @@
 h1 {
-    color:pink;
+    color:rgb(56, 20, 26);
+    font-family: 'EB Garamond';
+    font-style: italic;
+}
+
+body {
+    background: #f87add;
 }
