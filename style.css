@@ -12,7 +12,6 @@ body {
 
 main {
     position: sticky;
-    top: -100px;    
     background-color: whitesmoke;
     margin: 0px 20px;
 }
