@@ -6,4 +6,17 @@ h1 {
 
 body {
     background: #f87add;
+    margin: 0;
+}
+
+main {
+    position: sticky;
+    top: -100px;    
+}
+
+footer {
+    width: 100vw;
+    border: 5px solid black;
+    z-index: 10;
+    backdrop-filter: blur(10px);
 }
